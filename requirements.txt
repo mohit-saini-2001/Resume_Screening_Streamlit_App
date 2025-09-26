@@ -1,0 +1,4 @@
+streamlit>=1.20
+pdfplumber>=0.7.6
+sentence-transformers>=2.2.2
+torch>=1.12.0         # installed as required by sentence-transformers
